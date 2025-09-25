@@ -1,13 +1,5 @@
 # TryHackMe - Offensive Security Intro
-**Difficulty:** [Easy/Medium/Hard]
-
----
-
-## 📖 Learning Objectives
-*A brief list of the main concepts covered in the room, taken from the room's description.*
-- Objective 1 (e.g., Understand basic Linux file system navigation)
-- Objective 2 (e.g., Learn essential commands like `ls`, `cd`, `cat`)
-- Objective 3 (e.g., Introduction to file permissions)
+**Difficulty:** Easy
 
 ## 🧠 Key Takeaways / Summary
 *A paragraph or two summarizing what you learned in your own words. This is the most important part for reinforcing knowledge.*
